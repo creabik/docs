@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-* [File Structure](getting-started/untitled.md)
+* [File Structure](getting-started/file-structure.md)
 
 ## Customisation
 
