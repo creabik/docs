@@ -14,16 +14,18 @@
 * [Logo Settings](html-edit/change-logo.md)
 * [Change Fonts](html-edit/change-fonts.md)
 
-## Plugins <a id="customisation"></a>
-
 ## Content Layouts <a id="content-layouts-1"></a>
 
 * [Sections](content-layouts-1/sections.md)
 * [Elements](content-layouts-1/elements.md)
 
----
+## Plugins <a id="customisation"></a>
 
-* [Customer Support](customer-support.md)
-* [Credit](credit.md)
-* [Content Layouts](content-layouts.md)
+* [Swiper](customisation/swiper.md)
+* [AOS](customisation/aos.md)
+
+## end
+
+* [Credit](end/credit.md)
+* [Customer Support](end/customer-support.md)
 
