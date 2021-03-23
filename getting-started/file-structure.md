@@ -1,13 +1,12 @@
 ---
-description: >-
-  This section is about the zipkit File structure. You will learn where to find
-  the files you need to start working and how to order them. zipkit has many
-  files and it's easy to get lost. Let's dive int
+description: 'Follow the steps below to setup your site template:'
 ---
 
-# File Structure
+# Instalation
 
-## Global structure
+## **Downloading the Template**
+
+Once you have downloaded the zip file from Themeforest, unzip it using your standard zip software. When it has finished you should have a folder with the following files & directories inside.
 
 ```d
 addkit template
@@ -22,6 +21,13 @@ addkit template
 | -- inner-pages
 | --- index.html
 ```
+
+{% hint style="info" %}
+1. Connect to your website host, using some of many FTP clients, for example FileZilla.
+2. After opened the template folder you will need to upload any niche template you need, for example if you need to upload \(**home1 - services**\) template, just go to the pages folder then remove all other pages  and upload all content or specific HTML files as per your need to your website server folder.
+{% endhint %}
+
+
 
 ## Sass structure
 
